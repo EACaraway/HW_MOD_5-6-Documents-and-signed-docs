@@ -1,1 +1,2 @@
 # HW_MOD_5-6-Documents-and-signed-docs
+Create a class called Document with any properties/methods you think are appropriate. At a minimum include a property for the user to add text or data. Create a second class called SignedDocument. This class will have a property called signature, which can only be written to once. The text/data of the signed document can only be modified if it is not yet signed.
